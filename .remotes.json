@@ -1,0 +1,14 @@
+[
+  {
+    "package": "EndoMineR",
+    "url": "https://github.com/sebastiz/EndoMineR",
+    "via": ["shinyEndomineR"],
+    "from": "shinyEndomineR"
+  },
+  {
+    "package": "rlang",
+    "url": "https://github.com/r-lib/rlang",
+    "via": ["shinyEndomineR", "EndoMineR"],
+    "from": "shinyEndomineR"
+  }
+]
