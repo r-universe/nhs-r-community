@@ -15,9 +15,9 @@
 	shallow = true
 	branch = main
 	registered = true
-[submodule "NHStools"]
-	path = NHStools
-	url = https://github.com/nhs-r-community/NHStools
+[submodule "NHSRtools"]
+	path = NHSRtools
+	url = https://github.com/nhs-r-community/NHSRtools
 	shallow = true
 	branch = main
 	registered = true
@@ -31,5 +31,5 @@
 	path = shinyEndomineR
 	url = https://github.com/nhs-r-community/shinyEndomineR
 	shallow = true
-	branch = main
+	branch = master
 	registered = true
