@@ -2,5 +2,17 @@
   {
     "package": "NHSRdatasets",
     "oncran": true
+  },
+  {
+    "package": "NHSRplotthedots"
+  },
+  {
+    "package": "NHStools"
+  },
+  {
+    "package": "nhsrtheme"
+  },
+  {
+    "package": "shinyEndomineR"
   }
 ]

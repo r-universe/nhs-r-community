@@ -1,10 +1,35 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/nhs-r-community/universe
 	shallow = true
 	branch = HEAD
 [submodule "NHSRdatasets"]
 	path = NHSRdatasets
-	url = https://github.com/nhs-r-community/nhsrdatasets
+	url = https://github.com/nhs-r-community/NHSRdatasets
 	shallow = true
+	branch = main
+	registered = true
+[submodule "NHSRplotthedots"]
+	path = NHSRplotthedots
+	url = https://github.com/nhs-r-community/NHSRplotthedots
+	shallow = true
+	branch = main
+	registered = true
+[submodule "NHStools"]
+	path = NHStools
+	url = https://github.com/nhs-r-community/NHStools
+	shallow = true
+	branch = main
+	registered = true
+[submodule "nhsrtheme"]
+	path = nhsrtheme
+	url = https://github.com/nhs-r-community/nhsrtheme
+	shallow = true
+	branch = main
+	registered = true
+[submodule "shinyEndomineR"]
+	path = shinyEndomineR
+	url = https://github.com/nhs-r-community/shinyEndomineR
+	shallow = true
+	branch = main
 	registered = true
