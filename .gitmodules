@@ -27,12 +27,6 @@
 	shallow = true
 	branch = main
 	registered = true
-[submodule "shinyEndomineR"]
-	path = shinyEndomineR
-	url = https://github.com/nhs-r-community/shinyEndomineR
-	shallow = true
-	branch = master
-	registered = true
 [submodule "EndoMineR"]
 	path = EndoMineR
 	url = https://github.com/sebastiz/EndoMineR
