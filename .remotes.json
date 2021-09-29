@@ -4,5 +4,11 @@
     "url": "https://github.com/nhs-r-community/NHSRpostcodetools",
     "via": ["NHSRpopulation"],
     "from": "NHSRpopulation"
+  },
+  {
+    "package": "experienceAnalysis",
+    "url": "https://github.com/CDU-data-science-team/experienceAnalysis",
+    "via": ["pxtextmineR"],
+    "from": "pxtextmineR"
   }
 ]

@@ -34,6 +34,10 @@
 	path = NHSRwaitinglist
 	url = https://github.com/nhs-r-community/NHSRwaitinglist
 	branch = main
+[submodule "experienceAnalysis"]
+	path = experienceAnalysis
+	url = https://github.com/CDU-data-science-team/experienceAnalysis
+	registered = false
 [submodule "pxtextmineR"]
 	path = pxtextmineR
 	url = https://github.com/nhs-r-community/pxtextmineR
