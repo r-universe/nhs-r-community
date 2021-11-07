@@ -21,8 +21,8 @@
 	shallow = true
 	branch = main
 	registered = true
-[submodule "nhsrtheme"]
-	path = nhsrtheme
+[submodule "NHSRtheme"]
+	path = NHSRtheme
 	url = https://github.com/nhs-r-community/nhsrtheme
 	shallow = true
 	branch = main
