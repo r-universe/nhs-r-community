@@ -8,6 +8,9 @@
     "oncran": true
   },
   {
+    "package": "NHSRpopulation"
+  },
+  {
     "package": "NHSRtools"
   },
   {

@@ -15,6 +15,12 @@
 	shallow = true
 	branch = main
 	registered = true
+[submodule "NHSRpopulation"]
+	path = NHSRpopulation
+	url = https://github.com/nhs-r-community/NHSRpopulation
+	shallow = true
+	branch = main
+	registered = true
 [submodule "NHSRtools"]
 	path = NHSRtools
 	url = https://github.com/nhs-r-community/NHSRtools
@@ -23,7 +29,7 @@
 	registered = true
 [submodule "NHSRtheme"]
 	path = NHSRtheme
-	url = https://github.com/nhs-r-community/nhsrtheme
+	url = https://github.com/nhs-r-community/NHSRtheme
 	shallow = true
 	branch = main
 	registered = true
