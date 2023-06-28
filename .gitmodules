@@ -1,35 +1,24 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/nhs-r-community/universe
-	shallow = true
 	branch = HEAD
 [submodule "NHSRdatasets"]
 	path = NHSRdatasets
 	url = https://github.com/nhs-r-community/NHSRdatasets
-	shallow = true
 	branch = main
-	registered = true
 [submodule "NHSRplotthedots"]
 	path = NHSRplotthedots
 	url = https://github.com/nhs-r-community/NHSRplotthedots
-	shallow = true
 	branch = main
-	registered = true
 [submodule "NHSRpopulation"]
 	path = NHSRpopulation
 	url = https://github.com/nhs-r-community/NHSRpopulation
-	shallow = true
 	branch = main
-	registered = true
 [submodule "NHSRtools"]
 	path = NHSRtools
 	url = https://github.com/nhs-r-community/NHSRtools
-	shallow = true
 	branch = main
-	registered = true
 [submodule "NHSRtheme"]
 	path = NHSRtheme
 	url = https://github.com/nhs-r-community/NHSRtheme
-	shallow = true
 	branch = main
-	registered = true
