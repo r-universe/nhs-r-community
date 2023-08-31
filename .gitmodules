@@ -14,11 +14,11 @@
 	path = NHSRpopulation
 	url = https://github.com/nhs-r-community/NHSRpopulation
 	branch = main
-[submodule "NHSRtools"]
-	path = NHSRtools
-	url = https://github.com/nhs-r-community/NHSRtools
-	branch = main
 [submodule "NHSRtheme"]
 	path = NHSRtheme
 	url = https://github.com/nhs-r-community/NHSRtheme
+	branch = main
+[submodule "NHSRtools"]
+	path = NHSRtools
+	url = https://github.com/nhs-r-community/NHSRtools
 	branch = main
