@@ -1,0 +1,8 @@
+[
+  {
+    "package": "NHSRpostcodetools",
+    "url": "https://github.com/nhs-r-community/NHSRpostcodetools",
+    "via": ["NHSRpopulation"],
+    "from": "NHSRpopulation"
+  }
+]

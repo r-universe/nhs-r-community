@@ -14,6 +14,10 @@
 	path = NHSRpopulation
 	url = https://github.com/nhs-r-community/NHSRpopulation
 	branch = main
+[submodule "NHSRpostcodetools"]
+	path = NHSRpostcodetools
+	url = https://github.com/nhs-r-community/NHSRpostcodetools
+	registered = false
 [submodule "NHSRtheme"]
 	path = NHSRtheme
 	url = https://github.com/nhs-r-community/NHSRtheme
