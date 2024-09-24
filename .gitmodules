@@ -6,6 +6,10 @@
 	path = NHSRdatasets
 	url = https://github.com/nhs-r-community/NHSRdatasets
 	branch = main
+[submodule "NHSRepisodes"]
+	path = NHSRepisodes
+	url = https://github.com/nhs-r-community/NHSRepisodes
+	branch = main
 [submodule "NHSRplotthedots"]
 	path = NHSRplotthedots
 	url = https://github.com/nhs-r-community/NHSRplotthedots
@@ -25,4 +29,12 @@
 [submodule "NHSRtools"]
 	path = NHSRtools
 	url = https://github.com/nhs-r-community/NHSRtools
+	branch = main
+[submodule "NHSRwaitinglist"]
+	path = NHSRwaitinglist
+	url = https://github.com/nhs-r-community/NHSRwaitinglist
+	branch = main
+[submodule "pxtextmineR"]
+	path = pxtextmineR
+	url = https://github.com/nhs-r-community/pxtextmineR
 	branch = main
