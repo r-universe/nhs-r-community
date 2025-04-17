@@ -2,6 +2,10 @@
 	path = .registry
 	url = https://github.com/nhs-r-community/nhs-r-community.r-universe.dev
 	branch = HEAD
+[submodule "FunnelPlotR"]
+	path = FunnelPlotR
+	url = https://github.com/nhs-r-community/FunnelPlotR
+	branch = main
 [submodule "NHSRdatasets"]
 	path = NHSRdatasets
 	url = https://github.com/nhs-r-community/NHSRdatasets
